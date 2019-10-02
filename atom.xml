@@ -1,15 +1,14 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://xueyuan2.github.io</id>
-    <title>Gridea</title>
-    <updated>2019-10-02T12:36:54.507Z</updated>
+    <title>yuan&apos;blog</title>
+    <updated>2019-10-02T12:41:44.939Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://xueyuan2.github.io"/>
     <link rel="self" href="https://xueyuan2.github.io/atom.xml"/>
-    <subtitle>温故而知新</subtitle>
     <logo>https://xueyuan2.github.io/images/avatar.png</logo>
     <icon>https://xueyuan2.github.io/favicon.ico</icon>
-    <rights>All rights reserved 2019, Gridea</rights>
+    <rights>All rights reserved 2019, yuan&apos;blog</rights>
     <entry>
         <title type="html"><![CDATA[Hello World]]></title>
         <id>https://xueyuan2.github.io/post/hello-world</id>
@@ -123,171 +122,6 @@
 <p>答：“<strong>根据实证主义哲学，宇宙之所以存在是因为存在一个描述它的协调的理论</strong>。我们正在寻求这个理论。但愿我们能找到它。因为没有一个理论，宇宙就会消失。”</p>
 </blockquote>
 <p><strong>感官的输入各有差异，你我脑中的世界并不相同。</strong></p>
-]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[MIX2S修理记]]></title>
-        <id>https://xueyuan2.github.io/post/20190702MIX2S修理记录</id>
-        <link href="https://xueyuan2.github.io/post/20190702MIX2S修理记录">
-        </link>
-        <updated>2019-07-01T16:00:00.000Z</updated>
-        <summary type="html"><![CDATA[<p>手机用了一年多，出现三个问题：</p>
-<ol>
-<li>电池耗电快</li>
-<li>指纹触摸板失效</li>
-<li>屏幕碎裂，显示正常但半个屏幕无法触屏操作</li>
-</ol>
-<p>之前碎屏去官方换屏，花费720元。这次为了省钱<s>因为穷</s>, 就自行购置各配件，更换总成带中框，电池，指纹排线模板啦~</p>
-]]></summary>
-        <content type="html"><![CDATA[<p>手机用了一年多，出现三个问题：</p>
-<ol>
-<li>电池耗电快</li>
-<li>指纹触摸板失效</li>
-<li>屏幕碎裂，显示正常但半个屏幕无法触屏操作</li>
-</ol>
-<p>之前碎屏去官方换屏，花费720元。这次为了省钱<s>因为穷</s>, 就自行购置各配件，更换总成带中框，电池，指纹排线模板啦~</p>
-<!-- more -->
-<h2 id="1-带中框总成">1. 带中框总成</h2>
-<blockquote>
-<ol>
-<li>购买：淘宝，270元包邮。</li>
-<li>拆机： MIX2S更换总成视频，优酷和爱奇艺上有。简单~</li>
-<li>试用： 店家是承诺不拆可以退货的，所以先把插口插上，试用，还是跟随视频，完成屏幕显示和触控功能的检测</li>
-<li>装机：验证无误，就可以把原本的模板一一扣下来装上去了~</li>
-</ol>
-</blockquote>
-<h2 id="2-电池">2. 电池</h2>
-<blockquote>
-<ol>
-<li>购买： 淘宝， 48.02元包邮</li>
-<li>拆机：拆机同上</li>
-<li>试用：这个不好说，插上，充电看看正常就行吧</li>
-<li>装机：电池胶贴好，放进去就好。电池胶比较好拆，电池损耗如果一年后又比较严重，可以方便地拆了再换~</li>
-</ol>
-</blockquote>
-<h2 id="3-指纹排线">3. 指纹排线</h2>
-<blockquote>
-<ol>
-<li>购买： 淘宝，14.9元包邮</li>
-<li>拆机：拆机同上</li>
-<li>试用： 也是先不做其他，插上插口，试试指纹功能，这个要注意重启一下手机才能识别</li>
-<li>装机：验证无误，可以把旧的扣下了，胶去除干净再用新胶把新的触摸板黏上</li>
-</ol>
-</blockquote>
-<h1 id="总结">总结</h1>
-<h2 id="1-自己动手很有意思出发点是搞不好也当练手工了~">1. 自己动手很有意思，出发点是，搞不好也当练手工了~</h2>
-<h2 id="2-先找的视频进行学习和了解之后再购买的配件">2. 先找的视频进行学习和了解，之后再购买的配件</h2>
-<h2 id="3-对自己的动手能力越来越有信心了呢xd">3. 对自己的动手能力越来越有信心了呢，XD</h2>
-<h1 id="修修补补又三年希望能凑合到博士毕业5g普及再更换~">修修补补又三年，希望能凑合到博士毕业，5G普及再更换~</h1>
-]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Fibonacci squence]]></title>
-        <id>https://xueyuan2.github.io/post/20190629fibonacci squence</id>
-        <link href="https://xueyuan2.github.io/post/20190629fibonacci squence">
-        </link>
-        <updated>2019-06-28T16:00:00.000Z</updated>
-        <content type="html"><![CDATA[<!-- more -->
-<pre><code>def fib(n):
-    &quot;&quot;&quot;This is documentation string for function. It'll be available by fib.__doc__() 
-    Return a list containing the Fibonacci series up to n.&quot;&quot;&quot;  
-    result = []
-    a = 1
-    b = 1
-    while a &lt; n:
-        result.append(a)
-        tmp_var = b
-        b += a
-        a = tmp_var
-    return result
-
-print(fib(10))
-</code></pre>
-<pre><code class="language-python">[1, 1, 2, 3, 5, 8]
-</code></pre>
-]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[《Just for fun》]]></title>
-        <id>https://xueyuan2.github.io/post/20190611just_for_fun</id>
-        <link href="https://xueyuan2.github.io/post/20190611just_for_fun">
-        </link>
-        <updated>2019-06-10T16:00:00.000Z</updated>
-        <summary type="html"><![CDATA[<p>林纳斯·托瓦兹和大卫·戴蒙著，中译本译者为陈少芸</p>
-<p>人民邮电出版社的一本小书，《只是为了好玩——Linux之父林纳斯自传》。书中从林纳斯的成长史写到linux的产生，既有对技术和社会进化的严肃思考，又时不时夹杂些小幽默，还是比较好读的。</p>
-]]></summary>
-        <content type="html"><![CDATA[<p>林纳斯·托瓦兹和大卫·戴蒙著，中译本译者为陈少芸</p>
-<p>人民邮电出版社的一本小书，《只是为了好玩——Linux之父林纳斯自传》。书中从林纳斯的成长史写到linux的产生，既有对技术和社会进化的严肃思考，又时不时夹杂些小幽默，还是比较好读的。</p>
-  <!-- more -->  
-<p>林纳斯认为的生命的意义</p>
-<blockquote>
-<p>第一是生存，第二是社会秩序，第三是娱乐。而娱乐之后，一无所有。</p>
-</blockquote>
-<hr>
-<h1 id="总结">总结</h1>
-<p>正是由于林纳斯的道德观价值观，linux在一开始便与其他商业化的技术分道扬镳。</p>
-<blockquote>
-<p>放开一切事物，就会激发无限的可能。</p>
-</blockquote>
-]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[《奇特的一生》]]></title>
-        <id>https://xueyuan2.github.io/post/20190514奇特的一生</id>
-        <link href="https://xueyuan2.github.io/post/20190514奇特的一生">
-        </link>
-        <updated>2019-05-13T16:00:00.000Z</updated>
-        <summary type="html"><![CDATA[<p>作者：格拉宁</p>
-<p>《奇特的一生》是一本关于时间管理的书，讲述的是柳比歇夫对自己一生时间的使用的统计方法。柳比歇夫的方法，以它细密的网眼，抓住了变幻无常的、老想溜掉的日常生活，抓住了我们没有察觉到的、损失掉的、不知去向的时间。</p>
-]]></summary>
-        <content type="html"><![CDATA[<p>作者：格拉宁</p>
-<p>《奇特的一生》是一本关于时间管理的书，讲述的是柳比歇夫对自己一生时间的使用的统计方法。柳比歇夫的方法，以它细密的网眼，抓住了变幻无常的、老想溜掉的日常生活，抓住了我们没有察觉到的、损失掉的、不知去向的时间。</p>
-<!-- more -->
-<h2 id="时间统计法">时间统计法</h2>
-<h3 id="1-碎片化时间管理">1. 碎片化时间管理</h3>
-<blockquote>
-<p>想方设法利用每一分钟，利用任何所谓的“时间下脚料......</p>
-</blockquote>
-<h3 id="2-制定目标安排计划">2. 制定目标安排计划</h3>
-<h3 id="3-坚持">3. 坚持</h3>
-<blockquote>
-<p>他生前最后二十年，做的工作一点不比他青年时代少。</p>
-</blockquote>
-<hr>
-<h2 id="总结">总结</h2>
-<p>理智地和人道地同时间打交道的论题已日益成为燃眉之急。这不仅是一个节约时间的技术性问题，这个问题能帮助人们了解工作的意义。</p>
-]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Hello Gridea]]></title>
-        <id>https://xueyuan2.github.io/post/hello-gridea</id>
-        <link href="https://xueyuan2.github.io/post/hello-gridea">
-        </link>
-        <updated>2018-12-11T16:00:00.000Z</updated>
-        <summary type="html"><![CDATA[<p>👏  欢迎使用 <strong>Gridea</strong> ！<br>
-✍️  <strong>Gridea</strong> 一个静态博客写作客户端。你可以用它来记录你的生活、心情、知识、笔记、创意... ...</p>
-]]></summary>
-        <content type="html"><![CDATA[<p>👏  欢迎使用 <strong>Gridea</strong> ！<br>
-✍️  <strong>Gridea</strong> 一个静态博客写作客户端。你可以用它来记录你的生活、心情、知识、笔记、创意... ...</p>
-<!-- more -->
-<p><a href="https://github.com/getgridea/gridea">Github</a><br>
-<a href="https://gridea.dev/">Gridea 主页</a><br>
-<a href="http://fehey.com/">示例网站</a></p>
-<h2 id="特性">特性👇</h2>
-<p>📝  你可以使用最酷的 <strong>Markdown</strong> 语法，进行快速创作</p>
-<p>🌉  你可以给文章配上精美的封面图和在文章任意位置插入图片</p>
-<p>🏷️  你可以对文章进行标签分组</p>
-<p>📋  你可以自定义菜单，甚至可以创建外部链接菜单</p>
-<p>💻  你可以在 <strong>Windows</strong>，<strong>MacOS</strong> 或 <strong>Linux</strong> 设备上使用此客户端</p>
-<p>🌎  你可以使用 <strong>𝖦𝗂𝗍𝗁𝗎𝖻 𝖯𝖺𝗀𝖾𝗌</strong> 或 <strong>Coding Pages</strong> 向世界展示，未来将支持更多平台</p>
-<p>💬  你可以进行简单的配置，接入 <a href="https://github.com/gitalk/gitalk">Gitalk</a> 或 <a href="https://github.com/SukkaW/DisqusJS">DisqusJS</a> 评论系统</p>
-<p>🇬🇧  你可以使用<strong>中文简体</strong>或<strong>英语</strong></p>
-<p>🌁  你可以任意使用应用内默认主题或任意第三方主题，强大的主题自定义能力</p>
-<p>🖥  你可以自定义源文件夹，利用 OneDrive、百度网盘、iCloud、Dropbox 等进行多设备同步</p>
-<p>🌱 当然 <strong>Gridea</strong> 还很年轻，有很多不足，但请相信，它会不停向前 🏃</p>
-<p>未来，它一定会成为你离不开的伙伴</p>
-<p>尽情发挥你的才华吧！</p>
-<p>😘 Enjoy~</p>
 ]]></content>
     </entry>
 </feed>
