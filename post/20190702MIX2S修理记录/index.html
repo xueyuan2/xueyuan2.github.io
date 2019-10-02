@@ -1,93 +1,108 @@
+<!DOCTYPE html>
 <html>
   <head>
-    <meta charset="utf-8" />
-<meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta charset="utf-8" >
+
 <title>MIX2S修理记 | yuan&#39;blog</title>
-<meta name="description" content="" />
-<link rel="shortcut icon" href="https://xueyuan2.github.io/favicon.ico?v=1570020167654">
+<meta name="description" content="">
+
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no">
+
 <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.7.2/css/all.css" integrity="sha384-fnmOCqbTlWIlj8LyTjo7mOUStjsKC4pOpQbqyi7RrhN7udi9RwhKkMHpvLbHG9Sr" crossorigin="anonymous">
+<link rel="shortcut icon" href="https://xueyuan2.github.io/favicon.ico?v=1570020949221">
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/KaTeX/0.10.0/katex.min.css">
 <link rel="stylesheet" href="https://xueyuan2.github.io/styles/main.css">
 
+
+  
+    <link rel="stylesheet" href="https://unpkg.com/gitalk/dist/gitalk.css" />
+  
+
+  
+
+
+<script src="https://cdn.jsdelivr.net/npm/vue/dist/vue.js"></script>
 <script src="https://cdn.bootcss.com/highlight.js/9.12.0/highlight.min.js"></script>
-<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Droid+Serif:400,700">
+
+<link rel="stylesheet" href="https://unpkg.com/aos@next/dist/aos.css" />
 
 
 
   </head>
   <body>
-    <div class="main">
-      <div class="main-content">
-        <div class="site-header">
-  <a href="https://xueyuan2.github.io">
-  <img class="avatar" src="https://xueyuan2.github.io/images/avatar.png?v=1570020167654" alt="">
-  </a>
-  <h1 class="site-title">
-    yuan&#39;blog
-  </h1>
-  <p class="site-description">
-    
-  </p>
-  <div class="menu-container">
-    
+    <div id="app" class="main">
+
+      <div class="sidebar" :class="{ 'full-height': menuVisible }">
+  <div class="top-container" data-aos="fade-right">
+    <div class="top-header-container">
+      <a class="site-title-container" href="https://xueyuan2.github.io">
+        <img src="https://xueyuan2.github.io/images/avatar.png?v=1570020949221" class="site-logo">
+        <h1 class="site-title">yuan&#39;blog</h1>
+      </a>
+      <div class="menu-btn" @click="menuVisible = !menuVisible">
+        <div class="line"></div>
+      </div>
+    </div>
+    <div>
       
-        <a href="/" class="menu">
-          首页
-        </a>
+        
+          <a href="/" class="site-nav">
+            首页
+          </a>
+        
       
-    
+        
+          <a href="/archives" class="site-nav">
+            归档
+          </a>
+        
       
-        <a href="/archives" class="menu">
-          归档
-        </a>
+        
+          <a href="/tags" class="site-nav">
+            标签
+          </a>
+        
       
-    
+        
+          <a href="/post/about" class="site-nav">
+            关于
+          </a>
+        
       
-        <a href="/tags" class="menu">
-          标签
-        </a>
-      
-    
-      
-        <a href="/post/about" class="menu">
-          关于
-        </a>
-      
-    
+    </div>
   </div>
-  <div class="social-container">
-    
+  <div class="bottom-container" data-aos="flip-up" data-aos-offset="0">
+    <div class="social-container">
       
-    
+        
       
-    
+        
       
-    
+        
       
-    
+        
       
-    
+        
+      
+    </div>
+    <div class="site-description">
+      
+    </div>
+    <div class="site-footer">
+       | <a class="rss" href="https://xueyuan2.github.io/atom.xml" target="_blank">RSS</a>
+    </div>
   </div>
 </div>
 
-        <div class="post-detail">
-          <article class="post">
-            <h2 class="post-title">
-              MIX2S修理记
-            </h2>
-            <div class="post-info">
-              <span>
-                2019-07-02
-              </span>
-              <span>
-                2 min read
-              </span>
-              
-            </div>
+
+      <div class="main-container">
+        <div class="content-container" data-aos="fade-up">
+          <div class="post-detail">
+            <h2 class="post-title">MIX2S修理记</h2>
+            <div class="post-date">2019-07-02</div>
             
-            <div class="post-content-wrapper">
-              <div class="post-content">
-                <p>手机用了一年多，出现三个问题：</p>
+            <div class="post-content">
+              <p>手机用了一年多，出现三个问题：</p>
 <ol>
 <li>电池耗电快</li>
 <li>指纹触摸板失效</li>
@@ -128,117 +143,75 @@
 <h2 id="3-对自己的动手能力越来越有信心了呢xd">3. 对自己的动手能力越来越有信心了呢，XD</h2>
 <h1 id="修修补补又三年希望能凑合到博士毕业5g普及再更换~">修修补补又三年，希望能凑合到博士毕业，5G普及再更换~</h1>
 
-              </div>
-              <div class="toc-container">
-                <ul class="markdownIt-TOC">
-<li>
-<ul>
-<li><a href="#1-%E5%B8%A6%E4%B8%AD%E6%A1%86%E6%80%BB%E6%88%90">1. 带中框总成</a></li>
-<li><a href="#2-%E7%94%B5%E6%B1%A0">2. 电池</a></li>
-<li><a href="#3-%E6%8C%87%E7%BA%B9%E6%8E%92%E7%BA%BF">3. 指纹排线</a></li>
-</ul>
-</li>
-<li><a href="#%E6%80%BB%E7%BB%93">总结</a>
-<ul>
-<li><a href="#1-%E8%87%AA%E5%B7%B1%E5%8A%A8%E6%89%8B%E5%BE%88%E6%9C%89%E6%84%8F%E6%80%9D%E5%87%BA%E5%8F%91%E7%82%B9%E6%98%AF%E6%90%9E%E4%B8%8D%E5%A5%BD%E4%B9%9F%E5%BD%93%E7%BB%83%E6%89%8B%E5%B7%A5%E4%BA%86~">1. 自己动手很有意思，出发点是，搞不好也当练手工了~</a></li>
-<li><a href="#2-%E5%85%88%E6%89%BE%E7%9A%84%E8%A7%86%E9%A2%91%E8%BF%9B%E8%A1%8C%E5%AD%A6%E4%B9%A0%E5%92%8C%E4%BA%86%E8%A7%A3%E4%B9%8B%E5%90%8E%E5%86%8D%E8%B4%AD%E4%B9%B0%E7%9A%84%E9%85%8D%E4%BB%B6">2. 先找的视频进行学习和了解，之后再购买的配件</a></li>
-<li><a href="#3-%E5%AF%B9%E8%87%AA%E5%B7%B1%E7%9A%84%E5%8A%A8%E6%89%8B%E8%83%BD%E5%8A%9B%E8%B6%8A%E6%9D%A5%E8%B6%8A%E6%9C%89%E4%BF%A1%E5%BF%83%E4%BA%86%E5%91%A2xd">3. 对自己的动手能力越来越有信心了呢，XD</a></li>
-</ul>
-</li>
-<li><a href="#%E4%BF%AE%E4%BF%AE%E8%A1%A5%E8%A1%A5%E5%8F%88%E4%B8%89%E5%B9%B4%E5%B8%8C%E6%9C%9B%E8%83%BD%E5%87%91%E5%90%88%E5%88%B0%E5%8D%9A%E5%A3%AB%E6%AF%95%E4%B8%9A5g%E6%99%AE%E5%8F%8A%E5%86%8D%E6%9B%B4%E6%8D%A2~">修修补补又三年，希望能凑合到博士毕业，5G普及再更换~</a></li>
-</ul>
-
-              </div>
             </div>
-          </article>
-        </div>
+            
+            
+              <div class="next-post">
+                <div class="next">下一篇</div>
+                <a href="https://xueyuan2.github.io/post/20190629fibonacci squence">
+                  <h3 class="post-title">
+                    Fibonacci squence
+                  </h3>
+                </a>
+              </div>
+            
 
-        
-          <div class="next-post">
-            <div class="next">下一篇</div>
-            <a href="https://xueyuan2.github.io/post/20190629fibonacci squence">
-              <h3 class="post-title">
-                Fibonacci squence
-              </h3>
-            </a>
+            
+              
+                <div id="gitalk-container" data-aos="fade-in"></div>
+              
+
+              
+            
+
           </div>
-        
 
-        
-          
-            <link rel="stylesheet" href="https://unpkg.com/gitalk/dist/gitalk.css">
-<script src="https://unpkg.com/gitalk/dist/gitalk.min.js"></script>
-
-<div id="gitalk-container"></div>
-
-<script>
-
-  var gitalk = new Gitalk({
-    clientID: '4cf7e799bd2da95b22a7',
-    clientSecret: 'ab305dd180403699d0c042681456e7eee990d684',
-    repo: 'xueyuan2.github.io',
-    owner: 'xueyuan2',
-    admin: ['xueyuan2'],
-    id: (location.pathname).substring(0, 49),      // Ensure uniqueness and length less than 50
-    distractionFreeMode: false  // Facebook-like distraction free mode
-  })
-
-  gitalk.render('gitalk-container')
-
-</script>
-
-          
-
-          
-        
-
-        <div class="site-footer">
-   | 
-  <a class="rss" href="https://xueyuan2.github.io/atom.xml" target="_blank">RSS</a>
-</div>
-
-<script>
-  hljs.initHighlightingOnLoad()
-
-  let mainNavLinks = document.querySelectorAll(".markdownIt-TOC a");
-
-  // This should probably be throttled.
-  // Especially because it triggers during smooth scrolling.
-  // https://lodash.com/docs/4.17.10#throttle
-  // You could do like...
-  // window.addEventListener("scroll", () => {
-  //    _.throttle(doThatStuff, 100);
-  // });
-  // Only not doing it here to keep this Pen dependency-free.
-
-  window.addEventListener("scroll", event => {
-    let fromTop = window.scrollY;
-
-    mainNavLinks.forEach((link, index) => {
-      let section = document.getElementById(decodeURI(link.hash).substring(1));
-      let nextSection = null
-      if (mainNavLinks[index + 1]) {
-        nextSection = document.getElementById(decodeURI(mainNavLinks[index + 1].hash).substring(1));
-      }
-      if (section.offsetTop <= fromTop) {
-        if (nextSection) {
-          if (nextSection.offsetTop > fromTop) {
-            link.classList.add("current");
-          } else {
-            link.classList.remove("current");    
-          }
-        } else {
-          link.classList.add("current");
-        }
-      } else {
-        link.classList.remove("current");
-      }
-    });
-  });
-
-</script>
-
+        </div>
       </div>
     </div>
+
+    <script src="https://unpkg.com/aos@next/dist/aos.js"></script>
+
+<script type="application/javascript">
+
+AOS.init();
+
+hljs.initHighlightingOnLoad()
+
+var app = new Vue({
+  el: '#app',
+  data: {
+    menuVisible: false,
+  },
+})
+
+</script>
+
+
+
+  
+    <script src="https://unpkg.com/gitalk/dist/gitalk.min.js"></script>
+    <script>
+
+      var gitalk = new Gitalk({
+        clientID: '4cf7e799bd2da95b22a7',
+        clientSecret: 'ab305dd180403699d0c042681456e7eee990d684',
+        repo: 'xueyuan2.github.io',
+        owner: 'xueyuan2',
+        admin: ['xueyuan2'],
+        id: (location.pathname).substring(0, 49),      // Ensure uniqueness and length less than 50
+        distractionFreeMode: false  // Facebook-like distraction free mode
+      })
+
+      gitalk.render('gitalk-container')
+
+    </script>
+  
+
+  
+
+
+
+
   </body>
 </html>
