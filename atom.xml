@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://xueyuan2.github.io</id>
     <title>Gridea</title>
-    <updated>2019-10-02T12:28:11.282Z</updated>
+    <updated>2019-10-02T12:30:56.453Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://xueyuan2.github.io"/>
     <link rel="self" href="https://xueyuan2.github.io/atom.xml"/>
@@ -10,6 +10,254 @@
     <logo>https://xueyuan2.github.io/images/avatar.png</logo>
     <icon>https://xueyuan2.github.io/favicon.ico</icon>
     <rights>All rights reserved 2019, Gridea</rights>
+    <entry>
+        <title type="html"><![CDATA[Hello World]]></title>
+        <id>https://xueyuan2.github.io/post/hello-world</id>
+        <link href="https://xueyuan2.github.io/post/hello-world">
+        </link>
+        <updated>2019-10-02T12:29:40.000Z</updated>
+        <summary type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p>
+]]></summary>
+        <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p>
+<!-- more -->
+<h2 id="quick-start">Quick Start</h2>
+<h3 id="create-a-new-post">Create a new post</h3>
+<pre><code class="language-bash">$ hexo new &quot;My New Post&quot;
+</code></pre>
+<p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p>
+<h3 id="run-server">Run server</h3>
+<pre><code class="language-bash">$ hexo server
+</code></pre>
+<p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p>
+<h3 id="generate-static-files">Generate static files</h3>
+<pre><code class="language-bash">$ hexo generate
+</code></pre>
+<p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p>
+<h3 id="deploy-to-remote-sites">Deploy to remote sites</h3>
+<pre><code class="language-bash">$ hexo deploy
+</code></pre>
+<p>More info: <a href="https://hexo.io/docs/deployment.html">Deployment</a></p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[《造彩虹的人》]]></title>
+        <id>https://xueyuan2.github.io/post/20190923造彩虹的人</id>
+        <link href="https://xueyuan2.github.io/post/20190923造彩虹的人">
+        </link>
+        <updated>2019-09-22T16:00:00.000Z</updated>
+        <summary type="html"><![CDATA[<p>东野圭吾著，吕灵芝译。北京十月文艺出版社出版。</p>
+<p>奇妙的设定——“光乐”，以光为信息传递的媒介。整个故事里看着仿佛是孩子与父母之争，新兴人类危及政治统治而被整治。主人公光瑠演奏光乐，唤醒更多人对于光的感知，启发新的光乐演奏者觉醒的行为像是一个革命者。超自然现象下，其实探讨的是对于不同的包容态度，对于世代更替的必然趋势的肯定，和对于一切妄想阻止时代潮流的人的嘲讽。</p>
+<p>想起闻一多先生的那句——“你们杀死一个李公朴，会有千百万个李公朴站起来！”</p>
+]]></summary>
+        <content type="html"><![CDATA[<p>东野圭吾著，吕灵芝译。北京十月文艺出版社出版。</p>
+<p>奇妙的设定——“光乐”，以光为信息传递的媒介。整个故事里看着仿佛是孩子与父母之争，新兴人类危及政治统治而被整治。主人公光瑠演奏光乐，唤醒更多人对于光的感知，启发新的光乐演奏者觉醒的行为像是一个革命者。超自然现象下，其实探讨的是对于不同的包容态度，对于世代更替的必然趋势的肯定，和对于一切妄想阻止时代潮流的人的嘲讽。</p>
+<p>想起闻一多先生的那句——“你们杀死一个李公朴，会有千百万个李公朴站起来！”</p>
+<!-- more -->
+<p>故事本身比较简单，一个对光有异于常人的敏感的人，想要用光传达信息，找到或者启发更多和自己一样的人。但是在小组织逐渐变大的时候，遭遇到旧势力的阻挠。最后大量觉醒了感受光信息内力的新人类聚集起来，去救出了革命的带头人。故事戛然而止，“一切将从这里开始”。留下更多余地给读者去思考。<strong>故事有新意和亮点，但是整体看起来其实有点寡淡，很多地方直接解释，可还是没说透，还不如间接表现，可能感觉会更好一些。</strong></p>
+<p>人物除了革命领头人天才少年光瑠，还有加入暴走族的功一，备战高考却无法集中精神的政史，因家庭不和而失去生活勇气的辉美等等。开始是散落的个体，最后被光乐聚集在一起。想起一句老话：</p>
+<p><strong>星星之火可以燎原。</strong></p>
+<p><strong>打破旧秩序的黑暗，争到新世界的光明。</strong></p>
+<p>主旨还是很高的，可能限于篇幅，很多地方展开不够，过于局促，故事上有些遗憾了。</p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[《大设计》]]></title>
+        <id>https://xueyuan2.github.io/post/20190826大设计</id>
+        <link href="https://xueyuan2.github.io/post/20190826大设计">
+        </link>
+        <updated>2019-08-27T16:00:00.000Z</updated>
+        <summary type="html"><![CDATA[<p>史蒂芬·霍金和列那德·蒙洛迪诺著，译者是吴忠超</p>
+<p>湖南科技出版社出版</p>
+<p>看过了霍金的《时间简史》《果壳中的宇宙》，现在补上这本。《大设计》物理学理论的东西读起来没那么艰涩，反而感觉谈论哲学的带来的启发更多一些。翻译语言上显得繁琐，不过学术的东西，英文说得很简单，翻译成中文的确是挺难的。要是有时间找找英文原版的话，可以体会一下简洁之美吧~</p>
+<p>全书中心思想如译者前言所说，<strong>依赖模型的实在论</strong>，理解了这个，后面的细节推导倒没那么重要，毕竟于我而已，只是科普消遣，并不是学术研究的目的。</p>
+]]></summary>
+        <content type="html"><![CDATA[<p>史蒂芬·霍金和列那德·蒙洛迪诺著，译者是吴忠超</p>
+<p>湖南科技出版社出版</p>
+<p>看过了霍金的《时间简史》《果壳中的宇宙》，现在补上这本。《大设计》物理学理论的东西读起来没那么艰涩，反而感觉谈论哲学的带来的启发更多一些。翻译语言上显得繁琐，不过学术的东西，英文说得很简单，翻译成中文的确是挺难的。要是有时间找找英文原版的话，可以体会一下简洁之美吧~</p>
+<p>全书中心思想如译者前言所说，<strong>依赖模型的实在论</strong>，理解了这个，后面的细节推导倒没那么重要，毕竟于我而已，只是科普消遣，并不是学术研究的目的。</p>
+<!-- more -->
+<h2 id="1-什么是存在">1. 什么是存在？</h2>
+<p>谈论宇宙，神秘未知，不知何来，不知何去的宏大感受，带着我们脱离忙忙碌碌的生活，思考一些有趣的问题。</p>
+<blockquote>
+<p>为什么存在实在之物，而非一无所有？</p>
+<p>我们为什么存在？</p>
+<p>为什么是这一族特殊的定律而非别的？</p>
+</blockquote>
+<p>生命，宇宙和万物的终极问题。想回答这些问题，先理解什么是存在。</p>
+<h2 id="2-依赖模型的实在论_不存在与图像或者理论无关的实在概念">2. 依赖模型的实在论_不存在与图像或者理论无关的实在概念</h2>
+<p>经典科学认为，存在一个真实的外部世界，其性质是确定的，并与感知它们的观察者无关。</p>
+<p>而本书第二章就抛出一个概念——实在论。</p>
+<blockquote>
+<p>首先思考一个问题：托勒密系统和哥白尼系统，哪个是真实的？</p>
+<p>尽管哥白尼系在有关我们宇宙本性的哲学辩论中作用很大，然而它的真正优势是在太阳处于静止的坐标系中运动方程要简单得多。</p>
+</blockquote>
+<p>不同的观测，建立不同的理论。</p>
+<blockquote>
+<p><strong>依赖模型的实在论方法</strong>：</p>
+<p>我们的头脑以构造某种世界模型来解释来自感官的输入，当这样的模型成功解释事件时，我们就倾向于将实在性或绝对真理的品格赋予它，也赋予组成它的元素和概念。但为物理场景作模型时，<strong>不同的方法使用不同的基本元素和概念，如果他们都精确地预言同样的事件，我们就不能讲一个模型比另一个实在，而是哪个方便就随意地用哪个。</strong></p>
+</blockquote>
+<p>有很多虽看不见的模型，但可以很好的解释一些现象。例如，电子，夸克，磁场等等。</p>
+<blockquote>
+<p>波/粒二重性，两种非常不同的理论精确地描述了同样地现象，正与依赖模型的实在论相一致。</p>
+</blockquote>
+<p><strong>我们的实在概念和宇宙基本成分的概念伴随着每个理论或模型而改变。</strong></p>
+<h2 id="3-可择历史">3. 可择历史</h2>
+<blockquote>
+<p>量子力学“历史求和”或者“可择历史”的表述：</p>
+<p><strong>对于一个一般系统，任何观察的概率由所有可能将其导致那个视察的历史构成。</strong></p>
+<p>​                                                                                                               --理查德·费曼</p>
+</blockquote>
+<p>根据量子物理，宇宙没有一个单一的过去或者历史。这意味着，你现在对一个系统的观测影响它的过去。</p>
+<p>双缝干涉实验，阐述量子原理。费曼先生的思考方式，让我感觉之前学了假的双缝干涉。这或许就是生活在未知中，却不知自己无知吧。</p>
+<h2 id="4-定律">4. 定律</h2>
+<blockquote>
+<p><strong>我们能找到一个能预言所有对宇宙观测地终极理论吗</strong>？</p>
+<p>M理论是拥有我们认为最后理论所应具备地所有性质地仅有模型。M理论不是通常意义上的一种理论，而是整个一族不同的理论，其中每一种只在物理场景的某一范围很好地描述观测。</p>
+</blockquote>
+<p>科学定律如果确定了我们的行为，就很难相信<strong>自由意志</strong>如何生效，我们似乎只是生物机器。只能说，由于过于复杂，方程不可解，所以，任何复杂存在都具有自由意志。</p>
+<h2 id="5-结语">5. 结语</h2>
+<p><strong>中心思想——依赖模型的实在论。</strong></p>
+<p>科学找的是一个理论，恰当描述宇宙的理论。</p>
+<blockquote>
+<p>问：“你能对宇宙和我们自身的存在作些评论吗？</p>
+<p>答：“<strong>根据实证主义哲学，宇宙之所以存在是因为存在一个描述它的协调的理论</strong>。我们正在寻求这个理论。但愿我们能找到它。因为没有一个理论，宇宙就会消失。”</p>
+</blockquote>
+<p><strong>感官的输入各有差异，你我脑中的世界并不相同。</strong></p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[MIX2S修理记]]></title>
+        <id>https://xueyuan2.github.io/post/20190702MIX2S修理记录</id>
+        <link href="https://xueyuan2.github.io/post/20190702MIX2S修理记录">
+        </link>
+        <updated>2019-07-01T16:00:00.000Z</updated>
+        <summary type="html"><![CDATA[<p>手机用了一年多，出现三个问题：</p>
+<ol>
+<li>电池耗电快</li>
+<li>指纹触摸板失效</li>
+<li>屏幕碎裂，显示正常但半个屏幕无法触屏操作</li>
+</ol>
+<p>之前碎屏去官方换屏，花费720元。这次为了省钱<s>因为穷</s>, 就自行购置各配件，更换总成带中框，电池，指纹排线模板啦~</p>
+]]></summary>
+        <content type="html"><![CDATA[<p>手机用了一年多，出现三个问题：</p>
+<ol>
+<li>电池耗电快</li>
+<li>指纹触摸板失效</li>
+<li>屏幕碎裂，显示正常但半个屏幕无法触屏操作</li>
+</ol>
+<p>之前碎屏去官方换屏，花费720元。这次为了省钱<s>因为穷</s>, 就自行购置各配件，更换总成带中框，电池，指纹排线模板啦~</p>
+<!-- more -->
+<h2 id="1-带中框总成">1. 带中框总成</h2>
+<blockquote>
+<ol>
+<li>购买：淘宝，270元包邮。</li>
+<li>拆机： MIX2S更换总成视频，优酷和爱奇艺上有。简单~</li>
+<li>试用： 店家是承诺不拆可以退货的，所以先把插口插上，试用，还是跟随视频，完成屏幕显示和触控功能的检测</li>
+<li>装机：验证无误，就可以把原本的模板一一扣下来装上去了~</li>
+</ol>
+</blockquote>
+<h2 id="2-电池">2. 电池</h2>
+<blockquote>
+<ol>
+<li>购买： 淘宝， 48.02元包邮</li>
+<li>拆机：拆机同上</li>
+<li>试用：这个不好说，插上，充电看看正常就行吧</li>
+<li>装机：电池胶贴好，放进去就好。电池胶比较好拆，电池损耗如果一年后又比较严重，可以方便地拆了再换~</li>
+</ol>
+</blockquote>
+<h2 id="3-指纹排线">3. 指纹排线</h2>
+<blockquote>
+<ol>
+<li>购买： 淘宝，14.9元包邮</li>
+<li>拆机：拆机同上</li>
+<li>试用： 也是先不做其他，插上插口，试试指纹功能，这个要注意重启一下手机才能识别</li>
+<li>装机：验证无误，可以把旧的扣下了，胶去除干净再用新胶把新的触摸板黏上</li>
+</ol>
+</blockquote>
+<h1 id="总结">总结</h1>
+<h2 id="1-自己动手很有意思出发点是搞不好也当练手工了~">1. 自己动手很有意思，出发点是，搞不好也当练手工了~</h2>
+<h2 id="2-先找的视频进行学习和了解之后再购买的配件">2. 先找的视频进行学习和了解，之后再购买的配件</h2>
+<h2 id="3-对自己的动手能力越来越有信心了呢xd">3. 对自己的动手能力越来越有信心了呢，XD</h2>
+<h1 id="修修补补又三年希望能凑合到博士毕业5g普及再更换~">修修补补又三年，希望能凑合到博士毕业，5G普及再更换~</h1>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Fibonacci squence]]></title>
+        <id>https://xueyuan2.github.io/post/20190629fibonacci squence</id>
+        <link href="https://xueyuan2.github.io/post/20190629fibonacci squence">
+        </link>
+        <updated>2019-06-28T16:00:00.000Z</updated>
+        <content type="html"><![CDATA[<!-- more -->
+<pre><code>def fib(n):
+    &quot;&quot;&quot;This is documentation string for function. It'll be available by fib.__doc__() 
+    Return a list containing the Fibonacci series up to n.&quot;&quot;&quot;  
+    result = []
+    a = 1
+    b = 1
+    while a &lt; n:
+        result.append(a)
+        tmp_var = b
+        b += a
+        a = tmp_var
+    return result
+
+print(fib(10))
+</code></pre>
+<pre><code class="language-python">[1, 1, 2, 3, 5, 8]
+</code></pre>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[《Just for fun》]]></title>
+        <id>https://xueyuan2.github.io/post/20190611just_for_fun</id>
+        <link href="https://xueyuan2.github.io/post/20190611just_for_fun">
+        </link>
+        <updated>2019-06-10T16:00:00.000Z</updated>
+        <summary type="html"><![CDATA[<p>林纳斯·托瓦兹和大卫·戴蒙著，中译本译者为陈少芸</p>
+<p>人民邮电出版社的一本小书，《只是为了好玩——Linux之父林纳斯自传》。书中从林纳斯的成长史写到linux的产生，既有对技术和社会进化的严肃思考，又时不时夹杂些小幽默，还是比较好读的。</p>
+]]></summary>
+        <content type="html"><![CDATA[<p>林纳斯·托瓦兹和大卫·戴蒙著，中译本译者为陈少芸</p>
+<p>人民邮电出版社的一本小书，《只是为了好玩——Linux之父林纳斯自传》。书中从林纳斯的成长史写到linux的产生，既有对技术和社会进化的严肃思考，又时不时夹杂些小幽默，还是比较好读的。</p>
+  <!-- more -->  
+<p>林纳斯认为的生命的意义</p>
+<blockquote>
+<p>第一是生存，第二是社会秩序，第三是娱乐。而娱乐之后，一无所有。</p>
+</blockquote>
+<hr>
+<h1 id="总结">总结</h1>
+<p>正是由于林纳斯的道德观价值观，linux在一开始便与其他商业化的技术分道扬镳。</p>
+<blockquote>
+<p>放开一切事物，就会激发无限的可能。</p>
+</blockquote>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[《奇特的一生》]]></title>
+        <id>https://xueyuan2.github.io/post/20190514奇特的一生</id>
+        <link href="https://xueyuan2.github.io/post/20190514奇特的一生">
+        </link>
+        <updated>2019-05-13T16:00:00.000Z</updated>
+        <summary type="html"><![CDATA[<p>作者：格拉宁</p>
+<p>《奇特的一生》是一本关于时间管理的书，讲述的是柳比歇夫对自己一生时间的使用的统计方法。柳比歇夫的方法，以它细密的网眼，抓住了变幻无常的、老想溜掉的日常生活，抓住了我们没有察觉到的、损失掉的、不知去向的时间。</p>
+]]></summary>
+        <content type="html"><![CDATA[<p>作者：格拉宁</p>
+<p>《奇特的一生》是一本关于时间管理的书，讲述的是柳比歇夫对自己一生时间的使用的统计方法。柳比歇夫的方法，以它细密的网眼，抓住了变幻无常的、老想溜掉的日常生活，抓住了我们没有察觉到的、损失掉的、不知去向的时间。</p>
+<!-- more -->
+<h2 id="时间统计法">时间统计法</h2>
+<h3 id="1-碎片化时间管理">1. 碎片化时间管理</h3>
+<blockquote>
+<p>想方设法利用每一分钟，利用任何所谓的“时间下脚料......</p>
+</blockquote>
+<h3 id="2-制定目标安排计划">2. 制定目标安排计划</h3>
+<h3 id="3-坚持">3. 坚持</h3>
+<blockquote>
+<p>他生前最后二十年，做的工作一点不比他青年时代少。</p>
+</blockquote>
+<hr>
+<h2 id="总结">总结</h2>
+<p>理智地和人道地同时间打交道的论题已日益成为燃眉之急。这不仅是一个节约时间的技术性问题，这个问题能帮助人们了解工作的意义。</p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Hello Gridea]]></title>
         <id>https://xueyuan2.github.io/post/hello-gridea</id>
