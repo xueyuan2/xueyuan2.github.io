@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://xueyuan2.github.io</id>
     <title>xue&apos;blog</title>
-    <updated>2019-10-02T13:56:51.904Z</updated>
+    <updated>2019-10-03T14:29:17.494Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://xueyuan2.github.io"/>
     <link rel="self" href="https://xueyuan2.github.io/atom.xml"/>
@@ -22,6 +22,90 @@
         <content type="html"><![CDATA[<p>东野圭吾著，吕灵芝译。北京十月文艺出版社出版。</p>
 <p>奇妙的设定——“光乐”，以光为信息传递的媒介。整个故事里看着仿佛是孩子与父母之争，新兴人类危及政治统治而被整治。主人公光瑠演奏光乐，唤醒更多人对于光的感知，启发新的光乐演奏者觉醒的行为像是一个革命者。超自然现象下，其实探讨的是对于不同的包容态度，对于世代更替的必然趋势的肯定，和对于一切妄想阻止时代潮流的人的嘲讽。</p>
 <p>想起闻一多先生的那句——“你们杀死一个李公朴，会有千百万个李公朴站起来！”</p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[《大设计》]]></title>
+        <id>https://xueyuan2.github.io/post/20190826大设计</id>
+        <link href="https://xueyuan2.github.io/post/20190826大设计">
+        </link>
+        <updated>2019-08-27T16:00:00.000Z</updated>
+        <summary type="html"><![CDATA[<p>史蒂芬·霍金和列那德·蒙洛迪诺著，译者是吴忠超。湖南科技出版社出版。</p>
+<p>看过了霍金的《时间简史》《果壳中的宇宙》，现在补上这本。《大设计》物理学理论的东西读起来没那么艰涩，反而感觉谈论哲学的带来的启发更多一些。翻译语言上显得繁琐，不过学术的东西，英文说得很简单，翻译成中文的确是挺难的。要是有时间找找英文原版的话，可以体会一下简洁之美吧~</p>
+<p>全书中心思想如译者前言所说，<strong>依赖模型的实在论</strong>，理解了这个，后面的细节推导倒没那么重要，毕竟于我而已，只是科普消遣，并不是学术研究的目的。</p>
+]]></summary>
+        <content type="html"><![CDATA[<p>史蒂芬·霍金和列那德·蒙洛迪诺著，译者是吴忠超。湖南科技出版社出版。</p>
+<p>看过了霍金的《时间简史》《果壳中的宇宙》，现在补上这本。《大设计》物理学理论的东西读起来没那么艰涩，反而感觉谈论哲学的带来的启发更多一些。翻译语言上显得繁琐，不过学术的东西，英文说得很简单，翻译成中文的确是挺难的。要是有时间找找英文原版的话，可以体会一下简洁之美吧~</p>
+<p>全书中心思想如译者前言所说，<strong>依赖模型的实在论</strong>，理解了这个，后面的细节推导倒没那么重要，毕竟于我而已，只是科普消遣，并不是学术研究的目的。</p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[MIX2S修理记]]></title>
+        <id>https://xueyuan2.github.io/post/20190702MIX2S修理记录</id>
+        <link href="https://xueyuan2.github.io/post/20190702MIX2S修理记录">
+        </link>
+        <updated>2019-07-01T16:00:00.000Z</updated>
+        <summary type="html"><![CDATA[<p>手机用了一年多，出现三个问题：</p>
+<ol>
+<li>电池耗电快</li>
+<li>指纹触摸板失效</li>
+<li>屏幕碎裂，显示正常但半个屏幕无法触屏操作</li>
+</ol>
+<p>之前碎屏去官方换屏，花费720元。这次为了省钱<s>因为穷</s>, 就自行购置各配件，更换总成带中框，电池，指纹排线模板啦~</p>
+]]></summary>
+        <content type="html"><![CDATA[<p>手机用了一年多，出现三个问题：</p>
+<ol>
+<li>电池耗电快</li>
+<li>指纹触摸板失效</li>
+<li>屏幕碎裂，显示正常但半个屏幕无法触屏操作</li>
+</ol>
+<p>之前碎屏去官方换屏，花费720元。这次为了省钱<s>因为穷</s>, 就自行购置各配件，更换总成带中框，电池，指纹排线模板啦~</p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Fibonacci squence]]></title>
+        <id>https://xueyuan2.github.io/post/20190629fibonacci squence</id>
+        <link href="https://xueyuan2.github.io/post/20190629fibonacci squence">
+        </link>
+        <updated>2019-06-28T16:00:00.000Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[《Just for fun》]]></title>
+        <id>https://xueyuan2.github.io/post/20190611just_for_fun</id>
+        <link href="https://xueyuan2.github.io/post/20190611just_for_fun">
+        </link>
+        <updated>2019-06-10T16:00:00.000Z</updated>
+        <summary type="html"><![CDATA[<p>林纳斯·托瓦兹和大卫·戴蒙著，中译本译者为陈少芸</p>
+<p>人民邮电出版社的一本小书，《只是为了好玩——Linux之父林纳斯自传》。书中从林纳斯的成长史写到linux的产生，既有对技术和社会进化的严肃思考，又时不时夹杂些小幽默，还是比较好读的。</p>
+]]></summary>
+        <content type="html"><![CDATA[<p>林纳斯·托瓦兹和大卫·戴蒙著，中译本译者为陈少芸</p>
+<p>人民邮电出版社的一本小书，《只是为了好玩——Linux之父林纳斯自传》。书中从林纳斯的成长史写到linux的产生，既有对技术和社会进化的严肃思考，又时不时夹杂些小幽默，还是比较好读的。</p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[《奇特的一生》]]></title>
+        <id>https://xueyuan2.github.io/post/20190514奇特的一生</id>
+        <link href="https://xueyuan2.github.io/post/20190514奇特的一生">
+        </link>
+        <updated>2019-05-13T16:00:00.000Z</updated>
+        <summary type="html"><![CDATA[<p>作者：格拉宁</p>
+<p>《奇特的一生》是一本关于时间管理的书，讲述的是柳比歇夫对自己一生时间的使用的统计方法。柳比歇夫的方法，以它细密的网眼，抓住了变幻无常的、老想溜掉的日常生活，抓住了我们没有察觉到的、损失掉的、不知去向的时间。</p>
+]]></summary>
+        <content type="html"><![CDATA[<p>作者：格拉宁</p>
+<p>《奇特的一生》是一本关于时间管理的书，讲述的是柳比歇夫对自己一生时间的使用的统计方法。柳比歇夫的方法，以它细密的网眼，抓住了变幻无常的、老想溜掉的日常生活，抓住了我们没有察觉到的、损失掉的、不知去向的时间。</p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Hello Gridea]]></title>
+        <id>https://xueyuan2.github.io/post/hello-gridea</id>
+        <link href="https://xueyuan2.github.io/post/hello-gridea">
+        </link>
+        <updated>2018-12-11T16:00:00.000Z</updated>
+        <summary type="html"><![CDATA[<p>👏  欢迎使用 <strong>Gridea</strong> ！<br>
+✍️  <strong>Gridea</strong> 一个静态博客写作客户端。你可以用它来记录你的生活、心情、知识、笔记、创意... ...</p>
+]]></summary>
+        <content type="html"><![CDATA[<p>👏  欢迎使用 <strong>Gridea</strong> ！<br>
+✍️  <strong>Gridea</strong> 一个静态博客写作客户端。你可以用它来记录你的生活、心情、知识、笔记、创意... ...</p>
 ]]></content>
     </entry>
 </feed>
