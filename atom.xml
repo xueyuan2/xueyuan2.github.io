@@ -2,13 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://xueyuan2.github.io</id>
     <title>xue&apos;blog</title>
-    <updated>2020-03-18T08:25:13.027Z</updated>
+    <updated>2020-04-08T07:48:50.660Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://xueyuan2.github.io"/>
     <link rel="self" href="https://xueyuan2.github.io/atom.xml"/>
     <logo>https://xueyuan2.github.io/images/avatar.png</logo>
     <icon>https://xueyuan2.github.io/favicon.ico</icon>
     <rights>All rights reserved 2020, xue&apos;blog</rights>
+    <entry>
+        <title type="html"><![CDATA[ubuntu安装relion]]></title>
+        <id>https://xueyuan2.github.io/post/ubuntu-an-zhuang-relion</id>
+        <link href="https://xueyuan2.github.io/post/ubuntu-an-zhuang-relion">
+        </link>
+        <updated>2020-04-08T07:18:09.000Z</updated>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How to Take Great Notes]]></title>
         <id>https://xueyuan2.github.io/post/how-to-take-great-notes</id>

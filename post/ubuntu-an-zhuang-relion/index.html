@@ -2,7 +2,7 @@
   <head>
     <meta charset="utf-8" />
 <meta name="viewport" content="width=device-width, initial-scale=1" />
-<title>MIX2S修理记 | xue&#39;blog</title>
+<title>ubuntu安装relion | xue&#39;blog</title>
 <meta name="description" content="" />
 <link rel="shortcut icon" href="https://xueyuan2.github.io/favicon.ico?v=1586332118431">
 <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.7.2/css/all.css" integrity="sha384-fnmOCqbTlWIlj8LyTjo7mOUStjsKC4pOpQbqyi7RrhN7udi9RwhKkMHpvLbHG9Sr" crossorigin="anonymous">
@@ -73,79 +73,75 @@
         <div class="post-detail">
           <article class="post">
             <h2 class="post-title">
-              MIX2S修理记
+              ubuntu安装relion
             </h2>
             <div class="post-info">
               <span>
-                2019-07-02
+                2020-04-08
               </span>
               <span>
-                2 min read
+                1 min read
               </span>
               
             </div>
             
             <div class="post-content-wrapper">
               <div class="post-content">
-                <p>手机用了一年多，出现三个问题：</p>
-<ol>
-<li>电池耗电快</li>
-<li>指纹触摸板失效</li>
-<li>屏幕碎裂，显示正常但半个屏幕无法触屏操作</li>
-</ol>
-<p>之前碎屏去官方换屏，花费720元。这次为了省钱<s>因为穷</s>, 就自行购置各配件，更换总成带中框，电池，指纹排线模板啦~</p>
-<!-- more -->
-<h2 id="1-带中框总成">1. 带中框总成</h2>
-<blockquote>
-<ol>
-<li>购买：淘宝，270元包邮。</li>
-<li>拆机： MIX2S更换总成视频，优酷和爱奇艺上有。简单~</li>
-<li>试用： 店家是承诺不拆可以退货的，所以先把插口插上，试用，还是跟随视频，完成屏幕显示和触控功能的检测</li>
-<li>装机：验证无误，就可以把原本的模板一一扣下来装上去了~</li>
-</ol>
-</blockquote>
-<h2 id="2-电池">2. 电池</h2>
-<blockquote>
-<ol>
-<li>购买： 淘宝， 48.02元包邮</li>
-<li>拆机：拆机同上</li>
-<li>试用：这个不好说，插上，充电看看正常就行吧</li>
-<li>装机：电池胶贴好，放进去就好。电池胶比较好拆，电池损耗如果一年后又比较严重，可以方便地拆了再换~</li>
-</ol>
-</blockquote>
-<h2 id="3-指纹排线">3. 指纹排线</h2>
-<blockquote>
-<ol>
-<li>购买： 淘宝，14.9元包邮</li>
-<li>拆机：拆机同上</li>
-<li>试用： 也是先不做其他，插上插口，试试指纹功能，这个要注意重启一下手机才能识别</li>
-<li>装机：验证无误，可以把旧的扣下了，胶去除干净再用新胶把新的触摸板黏上</li>
-</ol>
-</blockquote>
-<h1 id="总结">总结</h1>
-<h2 id="1-自己动手很有意思出发点是搞不好也当练手工了~">1. 自己动手很有意思，出发点是，搞不好也当练手工了~</h2>
-<h2 id="2-先找的视频进行学习和了解之后再购买的配件">2. 先找的视频进行学习和了解，之后再购买的配件</h2>
-<h2 id="3-对自己的动手能力越来越有信心了呢xd">3. 对自己的动手能力越来越有信心了呢，XD</h2>
-<h1 id="修修补补又三年希望能凑合到博士毕业5g普及再更换~">修修补补又三年，希望能凑合到博士毕业，5G普及再更换~</h1>
+                <h2 id="1-vmware虚拟机安装略">1. VMware虚拟机安装(略)</h2>
+<h2 id="2-ubuntu配置略">2. Ubuntu配置(略)</h2>
+<h2 id="3-relion安装">3. Relion安装</h2>
+<h3 id="1-git的下载安装略">1. git的下载安装(略)</h3>
+<h3 id="2-克隆relion">2. 克隆Relion</h3>
+<pre><code>git clone https://github.com/3dem/relion.git
+</code></pre>
+<h3 id="3-配置cmake">3. 配置cmake</h3>
+<ul>
+<li>下载安装cmake</li>
+<li>安装openmpi<br>
+Ubuntu 下安装 openmpi 需要同时安装下面三个包：</li>
+</ul>
+<pre><code>sudo apt-get install openmpi-bin openmpi-doc libopenmpi-dev 
+</code></pre>
+<ul>
+<li>下载安装fftw和fltk</li>
+</ul>
+<pre><code>sudo [apt-get](https://www.baidu.com/s?wd=apt-get&amp;tn=SE_PcZhidaonwhc_ngpagmjz&amp;rsv_dl=gh_pc_zhidao) install fftw3 fftw3-dev fftw3-doc
+sudo apt install fltk1.3-dev
+</code></pre>
+<h3 id="4-安装relion">4. 安装Relion</h3>
+<pre><code>cd relion
+mkdir build
+cd build
+make -j &lt;N&gt;
+sudo make install
+</code></pre>
+<h2 id="linux中编译安装软件的基本流程">Linux中编译安装软件的基本流程：</h2>
+<p>1.下载软件<br>
+2.解压软件 tar -xzvf 软件包名字＋扩展名<br>
+3.编译安装依次使用三个命令</p>
+<pre><code>./configure
+make
+make install
+</code></pre>
 
               </div>
               <div class="toc-container">
                 <ul class="markdownIt-TOC">
 <li>
 <ul>
-<li><a href="#1-%E5%B8%A6%E4%B8%AD%E6%A1%86%E6%80%BB%E6%88%90">1. 带中框总成</a></li>
-<li><a href="#2-%E7%94%B5%E6%B1%A0">2. 电池</a></li>
-<li><a href="#3-%E6%8C%87%E7%BA%B9%E6%8E%92%E7%BA%BF">3. 指纹排线</a></li>
-</ul>
-</li>
-<li><a href="#%E6%80%BB%E7%BB%93">总结</a>
+<li><a href="#1-vmware%E8%99%9A%E6%8B%9F%E6%9C%BA%E5%AE%89%E8%A3%85%E7%95%A5">1. VMware虚拟机安装(略)</a></li>
+<li><a href="#2-ubuntu%E9%85%8D%E7%BD%AE%E7%95%A5">2. Ubuntu配置(略)</a></li>
+<li><a href="#3-relion%E5%AE%89%E8%A3%85">3. Relion安装</a>
 <ul>
-<li><a href="#1-%E8%87%AA%E5%B7%B1%E5%8A%A8%E6%89%8B%E5%BE%88%E6%9C%89%E6%84%8F%E6%80%9D%E5%87%BA%E5%8F%91%E7%82%B9%E6%98%AF%E6%90%9E%E4%B8%8D%E5%A5%BD%E4%B9%9F%E5%BD%93%E7%BB%83%E6%89%8B%E5%B7%A5%E4%BA%86~">1. 自己动手很有意思，出发点是，搞不好也当练手工了~</a></li>
-<li><a href="#2-%E5%85%88%E6%89%BE%E7%9A%84%E8%A7%86%E9%A2%91%E8%BF%9B%E8%A1%8C%E5%AD%A6%E4%B9%A0%E5%92%8C%E4%BA%86%E8%A7%A3%E4%B9%8B%E5%90%8E%E5%86%8D%E8%B4%AD%E4%B9%B0%E7%9A%84%E9%85%8D%E4%BB%B6">2. 先找的视频进行学习和了解，之后再购买的配件</a></li>
-<li><a href="#3-%E5%AF%B9%E8%87%AA%E5%B7%B1%E7%9A%84%E5%8A%A8%E6%89%8B%E8%83%BD%E5%8A%9B%E8%B6%8A%E6%9D%A5%E8%B6%8A%E6%9C%89%E4%BF%A1%E5%BF%83%E4%BA%86%E5%91%A2xd">3. 对自己的动手能力越来越有信心了呢，XD</a></li>
+<li><a href="#1-git%E7%9A%84%E4%B8%8B%E8%BD%BD%E5%AE%89%E8%A3%85%E7%95%A5">1. git的下载安装(略)</a></li>
+<li><a href="#2-%E5%85%8B%E9%9A%86relion">2. 克隆Relion</a></li>
+<li><a href="#3-%E9%85%8D%E7%BD%AEcmake">3. 配置cmake</a></li>
+<li><a href="#4-%E5%AE%89%E8%A3%85relion">4. 安装Relion</a></li>
 </ul>
 </li>
-<li><a href="#%E4%BF%AE%E4%BF%AE%E8%A1%A5%E8%A1%A5%E5%8F%88%E4%B8%89%E5%B9%B4%E5%B8%8C%E6%9C%9B%E8%83%BD%E5%87%91%E5%90%88%E5%88%B0%E5%8D%9A%E5%A3%AB%E6%AF%95%E4%B8%9A5g%E6%99%AE%E5%8F%8A%E5%86%8D%E6%9B%B4%E6%8D%A2~">修修补补又三年，希望能凑合到博士毕业，5G普及再更换~</a></li>
+<li><a href="#linux%E4%B8%AD%E7%BC%96%E8%AF%91%E5%AE%89%E8%A3%85%E8%BD%AF%E4%BB%B6%E7%9A%84%E5%9F%BA%E6%9C%AC%E6%B5%81%E7%A8%8B">Linux中编译安装软件的基本流程：</a></li>
+</ul>
+</li>
 </ul>
 
               </div>
@@ -156,9 +152,9 @@
         
           <div class="next-post">
             <div class="next">下一篇</div>
-            <a href="https://xueyuan2.github.io/post/20190629fibonacci squence">
+            <a href="https://xueyuan2.github.io/post/how-to-take-great-notes">
               <h3 class="post-title">
-                Fibonacci squence
+                How to Take Great Notes
               </h3>
             </a>
           </div>
