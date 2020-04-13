@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://xueyuan2.github.io</id>
     <title>xue&apos;blog</title>
-    <updated>2020-04-08T07:48:50.660Z</updated>
+    <updated>2020-04-13T06:37:51.124Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://xueyuan2.github.io"/>
     <link rel="self" href="https://xueyuan2.github.io/atom.xml"/>
@@ -11,15 +11,15 @@
     <rights>All rights reserved 2020, xue&apos;blog</rights>
     <entry>
         <title type="html"><![CDATA[ubuntu安装relion]]></title>
-        <id>https://xueyuan2.github.io/post/ubuntu-an-zhuang-relion</id>
-        <link href="https://xueyuan2.github.io/post/ubuntu-an-zhuang-relion">
+        <id>https://xueyuan2.github.io/post/ubuntu-relion-install/</id>
+        <link href="https://xueyuan2.github.io/post/ubuntu-relion-install/">
         </link>
         <updated>2020-04-08T07:18:09.000Z</updated>
     </entry>
     <entry>
         <title type="html"><![CDATA[How to Take Great Notes]]></title>
-        <id>https://xueyuan2.github.io/post/how-to-take-great-notes</id>
-        <link href="https://xueyuan2.github.io/post/how-to-take-great-notes">
+        <id>https://xueyuan2.github.io/post/how-to-take-great-notes/</id>
+        <link href="https://xueyuan2.github.io/post/how-to-take-great-notes/">
         </link>
         <updated>2020-03-18T07:43:42.000Z</updated>
         <summary type="html"><![CDATA[<p>First, write down your conclusions instead of a barrage of facts.<br>
@@ -33,8 +33,8 @@ And third, go over notes by teaching someone.</p>
     </entry>
     <entry>
         <title type="html"><![CDATA[《知乎圆桌·牙齿保卫战》]]></title>
-        <id>https://xueyuan2.github.io/post/20191121牙齿保卫战</id>
-        <link href="https://xueyuan2.github.io/post/20191121牙齿保卫战">
+        <id>https://xueyuan2.github.io/post/20191121牙齿保卫战/</id>
+        <link href="https://xueyuan2.github.io/post/20191121牙齿保卫战/">
         </link>
         <updated>2019-11-21T14:19:23.000Z</updated>
         <summary type="html"><![CDATA[<p>很短小的牙齿健康科普书，kindle上看边记笔记不到一个小时就看完了。问答模式的分类合集，基本上涵盖了比较常见的牙病，常识科普辟谣，保养和一些治疗上的问题。有的回答，风趣幽默，打比方的方式让人忍俊不禁，我看的时候有些地方是会笑出声的。科普就应该是接地气的，把专业术语用大白话讲明白的。</p>
@@ -44,8 +44,8 @@ And third, go over notes by teaching someone.</p>
     </entry>
     <entry>
         <title type="html"><![CDATA[《造彩虹的人》]]></title>
-        <id>https://xueyuan2.github.io/post/20190923造彩虹的人</id>
-        <link href="https://xueyuan2.github.io/post/20190923造彩虹的人">
+        <id>https://xueyuan2.github.io/post/20190923造彩虹的人/</id>
+        <link href="https://xueyuan2.github.io/post/20190923造彩虹的人/">
         </link>
         <updated>2019-09-22T16:00:00.000Z</updated>
         <summary type="html"><![CDATA[<p>东野圭吾著，吕灵芝译。北京十月文艺出版社出版。</p>
@@ -59,8 +59,8 @@ And third, go over notes by teaching someone.</p>
     </entry>
     <entry>
         <title type="html"><![CDATA[《大设计》]]></title>
-        <id>https://xueyuan2.github.io/post/20190826大设计</id>
-        <link href="https://xueyuan2.github.io/post/20190826大设计">
+        <id>https://xueyuan2.github.io/post/20190826大设计/</id>
+        <link href="https://xueyuan2.github.io/post/20190826大设计/">
         </link>
         <updated>2019-08-27T16:00:00.000Z</updated>
         <summary type="html"><![CDATA[<p>史蒂芬·霍金和列那德·蒙洛迪诺著，译者是吴忠超。湖南科技出版社出版。</p>
@@ -74,8 +74,8 @@ And third, go over notes by teaching someone.</p>
     </entry>
     <entry>
         <title type="html"><![CDATA[MIX2S修理记]]></title>
-        <id>https://xueyuan2.github.io/post/20190702MIX2S修理记录</id>
-        <link href="https://xueyuan2.github.io/post/20190702MIX2S修理记录">
+        <id>https://xueyuan2.github.io/post/20190702MIX2S修理记录/</id>
+        <link href="https://xueyuan2.github.io/post/20190702MIX2S修理记录/">
         </link>
         <updated>2019-07-01T16:00:00.000Z</updated>
         <summary type="html"><![CDATA[<p>手机用了一年多，出现三个问题：</p>
@@ -97,15 +97,15 @@ And third, go over notes by teaching someone.</p>
     </entry>
     <entry>
         <title type="html"><![CDATA[Fibonacci squence]]></title>
-        <id>https://xueyuan2.github.io/post/20190629fibonacci squence</id>
-        <link href="https://xueyuan2.github.io/post/20190629fibonacci squence">
+        <id>https://xueyuan2.github.io/post/20190629fibonacci squence/</id>
+        <link href="https://xueyuan2.github.io/post/20190629fibonacci squence/">
         </link>
         <updated>2019-06-28T16:00:00.000Z</updated>
     </entry>
     <entry>
         <title type="html"><![CDATA[《Just for fun》]]></title>
-        <id>https://xueyuan2.github.io/post/20190611just_for_fun</id>
-        <link href="https://xueyuan2.github.io/post/20190611just_for_fun">
+        <id>https://xueyuan2.github.io/post/20190611just_for_fun/</id>
+        <link href="https://xueyuan2.github.io/post/20190611just_for_fun/">
         </link>
         <updated>2019-06-10T16:00:00.000Z</updated>
         <summary type="html"><![CDATA[<p>林纳斯·托瓦兹和大卫·戴蒙著，中译本译者为陈少芸</p>
@@ -117,8 +117,8 @@ And third, go over notes by teaching someone.</p>
     </entry>
     <entry>
         <title type="html"><![CDATA[《奇特的一生》]]></title>
-        <id>https://xueyuan2.github.io/post/20190514奇特的一生</id>
-        <link href="https://xueyuan2.github.io/post/20190514奇特的一生">
+        <id>https://xueyuan2.github.io/post/20190514奇特的一生/</id>
+        <link href="https://xueyuan2.github.io/post/20190514奇特的一生/">
         </link>
         <updated>2019-05-13T16:00:00.000Z</updated>
         <summary type="html"><![CDATA[<p>作者：格拉宁</p>
@@ -130,8 +130,8 @@ And third, go over notes by teaching someone.</p>
     </entry>
     <entry>
         <title type="html"><![CDATA[Hello Gridea]]></title>
-        <id>https://xueyuan2.github.io/post/hello-gridea</id>
-        <link href="https://xueyuan2.github.io/post/hello-gridea">
+        <id>https://xueyuan2.github.io/post/hello-gridea/</id>
+        <link href="https://xueyuan2.github.io/post/hello-gridea/">
         </link>
         <updated>2018-12-11T16:00:00.000Z</updated>
         <summary type="html"><![CDATA[<p>👏  欢迎使用 <strong>Gridea</strong> ！<br>

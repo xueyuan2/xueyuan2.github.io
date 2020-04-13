@@ -2,7 +2,7 @@
   <head>
     <meta charset="utf-8" />
 <meta name="viewport" content="width=device-width, initial-scale=1" />
-<title>《奇特的一生》 | xue&#39;blog</title>
+<title>ubuntu安装relion | xue&#39;blog</title>
 <meta name="description" content="" />
 <link rel="shortcut icon" href="https://xueyuan2.github.io/favicon.ico?v=1586759866938">
 <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.7.2/css/all.css" integrity="sha384-fnmOCqbTlWIlj8LyTjo7mOUStjsKC4pOpQbqyi7RrhN7udi9RwhKkMHpvLbHG9Sr" crossorigin="anonymous">
@@ -73,54 +73,82 @@
         <div class="post-detail">
           <article class="post">
             <h2 class="post-title">
-              《奇特的一生》
+              ubuntu安装relion
             </h2>
             <div class="post-info">
               <span>
-                2019-05-14
+                2020-04-08
               </span>
               <span>
                 1 min read
               </span>
               
-                <a href="https://xueyuan2.github.io/tag/1NED8Zs_u/" class="post-tag">
-                  # 读书
+                <a href="https://xueyuan2.github.io/tag/SP3RDKCA9/" class="post-tag">
+                  # biology
+                </a>
+              
+                <a href="https://xueyuan2.github.io/tag/AIN73tNZmw/" class="post-tag">
+                  # software
                 </a>
               
             </div>
             
             <div class="post-content-wrapper">
               <div class="post-content">
-                <p>作者：格拉宁</p>
-<p>《奇特的一生》是一本关于时间管理的书，讲述的是柳比歇夫对自己一生时间的使用的统计方法。柳比歇夫的方法，以它细密的网眼，抓住了变幻无常的、老想溜掉的日常生活，抓住了我们没有察觉到的、损失掉的、不知去向的时间。</p>
-<!-- more -->
-<h2 id="时间统计法">时间统计法</h2>
-<h3 id="1-碎片化时间管理">1. 碎片化时间管理</h3>
-<blockquote>
-<p>想方设法利用每一分钟，利用任何所谓的“时间下脚料......</p>
-</blockquote>
-<h3 id="2-制定目标安排计划">2. 制定目标安排计划</h3>
-<h3 id="3-坚持">3. 坚持</h3>
-<blockquote>
-<p>他生前最后二十年，做的工作一点不比他青年时代少。</p>
-</blockquote>
-<hr>
-<h2 id="总结">总结</h2>
-<p>理智地和人道地同时间打交道的论题已日益成为燃眉之急。这不仅是一个节约时间的技术性问题，这个问题能帮助人们了解工作的意义。</p>
+                <!-- more -->
+<h2 id="1-vmware虚拟机安装略">1. VMware虚拟机安装(略)</h2>
+<h2 id="2-ubuntu配置略">2. Ubuntu配置(略)</h2>
+<h2 id="3-relion安装">3. Relion安装</h2>
+<h3 id="1-git的下载安装略">1. git的下载安装(略)</h3>
+<h3 id="2-克隆relion">2. 克隆Relion</h3>
+<pre><code>git clone https://github.com/3dem/relion.git
+</code></pre>
+<h3 id="3-配置cmake">3. 配置cmake</h3>
+<ul>
+<li>下载安装cmake</li>
+<li>安装openmpi<br>
+Ubuntu 下安装 openmpi 需要同时安装下面三个包：</li>
+</ul>
+<pre><code>sudo apt-get install openmpi-bin openmpi-doc libopenmpi-dev 
+</code></pre>
+<ul>
+<li>下载安装fftw和fltk</li>
+</ul>
+<pre><code>sudo [apt-get](https://www.baidu.com/s?wd=apt-get&amp;tn=SE_PcZhidaonwhc_ngpagmjz&amp;rsv_dl=gh_pc_zhidao) install fftw3 fftw3-dev fftw3-doc
+sudo apt install fltk1.3-dev
+</code></pre>
+<h3 id="4-安装relion">4. 安装Relion</h3>
+<pre><code>cd relion
+mkdir build
+cd build
+make -j &lt;N&gt;
+sudo make install
+</code></pre>
+<h2 id="linux中编译安装软件的基本流程">Linux中编译安装软件的基本流程：</h2>
+<p>1.下载软件<br>
+2.解压软件 tar -xzvf 软件包名字＋扩展名<br>
+3.编译安装依次使用三个命令</p>
+<pre><code>./configure
+make
+make install
+</code></pre>
 
               </div>
               <div class="toc-container">
                 <ul class="markdownIt-TOC">
 <li>
 <ul>
-<li><a href="#%E6%97%B6%E9%97%B4%E7%BB%9F%E8%AE%A1%E6%B3%95">时间统计法</a>
+<li><a href="#1-vmware%E8%99%9A%E6%8B%9F%E6%9C%BA%E5%AE%89%E8%A3%85%E7%95%A5">1. VMware虚拟机安装(略)</a></li>
+<li><a href="#2-ubuntu%E9%85%8D%E7%BD%AE%E7%95%A5">2. Ubuntu配置(略)</a></li>
+<li><a href="#3-relion%E5%AE%89%E8%A3%85">3. Relion安装</a>
 <ul>
-<li><a href="#1-%E7%A2%8E%E7%89%87%E5%8C%96%E6%97%B6%E9%97%B4%E7%AE%A1%E7%90%86">1. 碎片化时间管理</a></li>
-<li><a href="#2-%E5%88%B6%E5%AE%9A%E7%9B%AE%E6%A0%87%E5%AE%89%E6%8E%92%E8%AE%A1%E5%88%92">2. 制定目标安排计划</a></li>
-<li><a href="#3-%E5%9D%9A%E6%8C%81">3. 坚持</a></li>
+<li><a href="#1-git%E7%9A%84%E4%B8%8B%E8%BD%BD%E5%AE%89%E8%A3%85%E7%95%A5">1. git的下载安装(略)</a></li>
+<li><a href="#2-%E5%85%8B%E9%9A%86relion">2. 克隆Relion</a></li>
+<li><a href="#3-%E9%85%8D%E7%BD%AEcmake">3. 配置cmake</a></li>
+<li><a href="#4-%E5%AE%89%E8%A3%85relion">4. 安装Relion</a></li>
 </ul>
 </li>
-<li><a href="#%E6%80%BB%E7%BB%93">总结</a></li>
+<li><a href="#linux%E4%B8%AD%E7%BC%96%E8%AF%91%E5%AE%89%E8%A3%85%E8%BD%AF%E4%BB%B6%E7%9A%84%E5%9F%BA%E6%9C%AC%E6%B5%81%E7%A8%8B">Linux中编译安装软件的基本流程：</a></li>
 </ul>
 </li>
 </ul>
@@ -133,9 +161,9 @@
         
           <div class="next-post">
             <div class="next">下一篇</div>
-            <a href="https://xueyuan2.github.io/post/hello-gridea/">
+            <a href="https://xueyuan2.github.io/post/how-to-take-great-notes/">
               <h3 class="post-title">
-                Hello Gridea
+                How to Take Great Notes
               </h3>
             </a>
           </div>
