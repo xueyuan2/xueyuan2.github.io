@@ -2,13 +2,28 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://xueyuan2.github.io</id>
     <title>xue&apos;blog</title>
-    <updated>2020-04-13T06:37:51.124Z</updated>
+    <updated>2020-04-13T07:42:56.484Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://xueyuan2.github.io"/>
     <link rel="self" href="https://xueyuan2.github.io/atom.xml"/>
     <logo>https://xueyuan2.github.io/images/avatar.png</logo>
     <icon>https://xueyuan2.github.io/favicon.ico</icon>
     <rights>All rights reserved 2020, xue&apos;blog</rights>
+    <entry>
+        <title type="html"><![CDATA[《人鼠之间（Of Mice And Men）》]]></title>
+        <id>https://xueyuan2.github.io/post/ren-shu-zhi-jiang/</id>
+        <link href="https://xueyuan2.github.io/post/ren-shu-zhi-jiang/">
+        </link>
+        <updated>2020-04-13T06:43:14.000Z</updated>
+        <summary type="html"><![CDATA[<p>江苏凤凰文艺出版社出版，作者约翰·斯坦贝克，译者陈宗琛。</p>
+<p><strong>金子般的友谊，海市蜃楼般的梦想。底层人民如沟渠中的老鼠，汲汲营营的谋生，不能犯一点错，露一点痕迹。应对危机的能力不足，终将于某一次危机中消亡。<br>
+悲伤的故事，也曾有希望，在一遍一遍说着梦想的生活的模样，进入甜美梦乡时。只是太脆弱了，生命之重，不可承受。</strong></p>
+]]></summary>
+        <content type="html"><![CDATA[<p>江苏凤凰文艺出版社出版，作者约翰·斯坦贝克，译者陈宗琛。</p>
+<p><strong>金子般的友谊，海市蜃楼般的梦想。底层人民如沟渠中的老鼠，汲汲营营的谋生，不能犯一点错，露一点痕迹。应对危机的能力不足，终将于某一次危机中消亡。<br>
+悲伤的故事，也曾有希望，在一遍一遍说着梦想的生活的模样，进入甜美梦乡时。只是太脆弱了，生命之重，不可承受。</strong></p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ubuntu安装relion]]></title>
         <id>https://xueyuan2.github.io/post/ubuntu-relion-install/</id>
@@ -126,19 +141,6 @@ And third, go over notes by teaching someone.</p>
 ]]></summary>
         <content type="html"><![CDATA[<p>作者：格拉宁</p>
 <p>《奇特的一生》是一本关于时间管理的书，讲述的是柳比歇夫对自己一生时间的使用的统计方法。柳比歇夫的方法，以它细密的网眼，抓住了变幻无常的、老想溜掉的日常生活，抓住了我们没有察觉到的、损失掉的、不知去向的时间。</p>
-]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Hello Gridea]]></title>
-        <id>https://xueyuan2.github.io/post/hello-gridea/</id>
-        <link href="https://xueyuan2.github.io/post/hello-gridea/">
-        </link>
-        <updated>2018-12-11T16:00:00.000Z</updated>
-        <summary type="html"><![CDATA[<p>👏  欢迎使用 <strong>Gridea</strong> ！<br>
-✍️  <strong>Gridea</strong> 一个静态博客写作客户端。你可以用它来记录你的生活、心情、知识、笔记、创意... ...</p>
-]]></summary>
-        <content type="html"><![CDATA[<p>👏  欢迎使用 <strong>Gridea</strong> ！<br>
-✍️  <strong>Gridea</strong> 一个静态博客写作客户端。你可以用它来记录你的生活、心情、知识、笔记、创意... ...</p>
 ]]></content>
     </entry>
 </feed>
